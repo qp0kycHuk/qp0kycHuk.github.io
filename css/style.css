@@ -1,0 +1,1183 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-ExtraBold.eot);
+    src: local('Gilroy ExtraBold'), local('Gilroy-ExtraBold'),
+        url(../fonts/Gilroy-ExtraBold.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-ExtraBold.woff) format('woff'),
+        url(../fonts/Gilroy-ExtraBold.ttf) format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-Heavy.eot);
+    src: local('Gilroy Heavy'), local('Gilroy-Heavy'),
+        url(../fonts/Gilroy-Heavy.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-Heavy.woff) format('woff'),
+        url(../fonts/Gilroy-Heavy.ttf) format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-SemiBold.eot);
+    src: local('Gilroy SemiBold'), local('Gilroy-SemiBold'),
+        url(../fonts/Gilroy-SemiBold.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-SemiBold.woff) format('woff'),
+        url(../fonts/Gilroy-SemiBold.ttf) format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-Light.eot);
+    src: local('Gilroy Light'), local('Gilroy-Light'),
+        url(../fonts/Gilroy-Light.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-Light.woff) format('woff'),
+        url(../fonts/Gilroy-Light.ttf) format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-Regular.eot);
+    src: local('Gilroy Regular'), local('Gilroy-Regular'),
+        url(../fonts/Gilroy-Regular.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-Regular.woff) format('woff'),
+        url(../fonts/Gilroy-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-Medium.eot);
+    src: local('Gilroy Medium'), local('Gilroy-Medium'),
+        url(../fonts/Gilroy-Medium.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-Medium.woff) format('woff'),
+        url(../fonts/Gilroy-Medium.ttf) format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-UltraLight.eot);
+    src: local('Gilroy UltraLight'), local('Gilroy-UltraLight'),
+        url(../fonts/Gilroy-UltraLight.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-UltraLight.woff) format('woff'),
+        url(../fonts/Gilroy-UltraLight.ttf) format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-Bold.eot);
+    src: local('Gilroy Bold'), local('Gilroy-Bold'),
+        url(../fonts/Gilroy-Bold.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-Bold.woff) format('woff'),
+        url(../fonts/Gilroy-Bold.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-Thin.eot);
+    src: local('Gilroy Thin'), local('Gilroy-Thin'),
+        url(../fonts/Gilroy-Thin.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-Thin.woff) format('woff'),
+        url(../fonts/Gilroy-Thin.ttf) format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-Black.eot);
+    src: local('Gilroy Black'), local('Gilroy-Black'),
+        url(../fonts/Gilroy-Black.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-Black.woff) format('woff'),
+        url(../fonts/Gilroy-Black.ttf) format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-LightItalic.eot);
+    src: local('Gilroy Light Italic'), local('Gilroy-LightItalic'),
+        url(../fonts/Gilroy-LightItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-LightItalic.woff) format('woff'),
+        url(../fonts/Gilroy-LightItalic.ttf) format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-ThinItalic.eot);
+    src: local('Gilroy Thin Italic'), local('Gilroy-ThinItalic'),
+        url(../fonts/Gilroy-ThinItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-ThinItalic.woff) format('woff'),
+        url(../fonts/Gilroy-ThinItalic.ttf) format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-BlackItalic.eot);
+    src: local('Gilroy Black Italic'), local('Gilroy-BlackItalic'),
+        url(../fonts/Gilroy-BlackItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-BlackItalic.woff) format('woff'),
+        url(../fonts/Gilroy-BlackItalic.ttf) format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-BoldItalic.eot);
+    src: local('Gilroy Bold Italic'), local('Gilroy-BoldItalic'),
+        url(../fonts/Gilroy-BoldItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-BoldItalic.woff) format('woff'),
+        url(../fonts/Gilroy-BoldItalic.ttf) format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-UltraLightItalic.eot);
+    src: local('Gilroy UltraLight Italic'), local('Gilroy-UltraLightItalic'),
+        url(../fonts/Gilroy-UltraLightItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-UltraLightItalic.woff) format('woff'),
+        url(../fonts/Gilroy-UltraLightItalic.ttf) format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-SemiBoldItalic.eot);
+    src: local('Gilroy SemiBold Italic'), local('Gilroy-SemiBoldItalic'),
+        url(../fonts/Gilroy-SemiBoldItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-SemiBoldItalic.woff) format('woff'),
+        url(../fonts/Gilroy-SemiBoldItalic.ttf) format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-MediumItalic.eot);
+    src: local('Gilroy Medium Italic'), local('Gilroy-MediumItalic'),
+        url(../fonts/Gilroy-MediumItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-MediumItalic.woff) format('woff'),
+        url(../fonts/Gilroy-MediumItalic.ttf) format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-ExtraBoldItalic.eot);
+    src: local('Gilroy ExtraBold Italic'), local('Gilroy-ExtraBoldItalic'),
+        url(../fonts/Gilroy-ExtraBoldItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-ExtraBoldItalic.woff) format('woff'),
+        url(../fonts/Gilroy-ExtraBoldItalic.ttf) format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-HeavyItalic.eot);
+    src: local('Gilroy Heavy Italic'), local('Gilroy-HeavyItalic'),
+        url(../fonts/Gilroy-HeavyItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-HeavyItalic.woff) format('woff'),
+        url(../fonts/Gilroy-HeavyItalic.ttf) format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(../fonts/Gilroy-RegularItalic.eot);
+    src: local('Gilroy Regular Italic'), local('Gilroy-RegularItalic'),
+        url(../fonts/Gilroy-RegularItalic.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/Gilroy-RegularItalic.woff) format('woff'),
+        url(../fonts/Gilroy-RegularItalic.ttf) format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+.ripple {
+  --riple-start-scale: 0;
+  --riple-end-scale  : 1.5;
+  position  : absolute !important;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius : 50%;
+  pointer-events: none;
+
+  opacity   : 0;
+  transform : scale(var(--riple-end-scale));
+  transition: .2s;
+}
+
+.ripple-wrap {
+  position      : absolute !important;
+  left          : 0;
+  top           : 0;
+  width         : 100%;
+  height        : 100%;
+  border-radius : inherit;
+  overflow      : hidden;
+  pointer-events: none;
+  z-index       : 2;
+}
+
+.ripple.show {
+  animation           : ripple-show .5s ease-out both;
+  --ripple-end-opacity: 0.5;
+}
+
+
+.ripple.removed {
+  --ripple-end-opacity: 0.5;
+  animation: ripple-hide .25s both;
+}
+
+
+@keyframes ripple-show {
+  from {
+    transform: scale(var(--riple-start-scale));
+    opacity  : 0;
+  }
+  
+  25%{
+    opacity: var(--ripple-end-opacity);
+  }
+
+  to {
+    transform: scale(var(--riple-end-scale));
+    opacity  : var(--ripple-end-opacity);
+  }
+}
+
+@keyframes ripple-hide {
+  from {
+    opacity: var(--ripple-end-opacity);
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+c-menu {
+  position: relative;
+  display: block;
+}
+
+c-menu-items {
+  --translate-x: 0;
+  --translate-y: 0;
+  --scale: 1;
+  --offset: 0px;
+
+  position: absolute;
+  display: block;
+  transform: translate(var(--translate-x), var(--translate-y)) scale(var(--scale));
+
+}
+
+c-menu-items:not([data-active]) {
+  pointer-events: none;
+  opacity: 0;
+
+}
+
+c-menu-items[placement=""],
+c-menu-items:not([placement]) {
+  top: 100%;
+  margin-top: var(--offset, 0);
+  left: 0;
+  transform-origin: top left;
+}
+
+c-menu[action="hover"] c-menu-items[placement=""]::before,
+c-menu[action="hover"] c-menu-items:not([placement])::before,
+c-menu[action="hover"] c-menu-items::before {
+  content: '';
+  position: absolute;
+}
+
+
+c-menu-items[placement^="top"] {
+  bottom: 100%;
+  margin-bottom: var(--offset, 0);
+}
+
+c-menu[action="hover"] c-menu-items[placement^="top"]::before {
+  top: calc(100% - 2px);
+  width: 100%;
+  height: calc(4px + var(--offset, 0));
+}
+
+
+c-menu-items[placement="top"] {
+  --translate-x: -50%;
+
+  left: 50%;
+  transform-origin: bottom;
+}
+
+c-menu-items[placement="top-start"] {
+  left: 0;
+  transform-origin: bottom left;
+}
+
+c-menu-items[placement="top-end"] {
+  right: 0;
+  transform-origin: bottom right;
+}
+
+c-menu-items[placement^="bottom"] {
+  top: 100%;
+  margin-top: var(--offset, 0);
+}
+
+c-menu[action="hover"] c-menu-items[placement=""]::before,
+c-menu[action="hover"] c-menu-items:not([placement])::before,
+c-menu[action="hover"] c-menu-items[placement^="bottom"]::before {
+  bottom: calc(100% - 2px);
+  width: 100%;
+  height: calc(4px + var(--offset, 0));
+}
+
+c-menu-items[placement="bottom"] {
+  --translate-x: -50%;
+
+  left: 50%;
+  transform-origin: top;
+}
+
+c-menu-items[placement="bottom-start"] {
+  left: 0;
+  transform-origin: top left;
+}
+
+c-menu-items[placement="bottom-end"] {
+  right: 0;
+  transform-origin: bottom right;
+}
+
+c-menu-items[placement^="right"] {
+  left: 100%;
+  margin-left: var(--offset, 0);
+}
+
+c-menu[action="hover"] c-menu-items[placement^="right"]::before {
+  right: calc(100% - 2px);
+  height: 100%;
+  width: calc(4px + var(--offset, 0));
+}
+
+c-menu-items[placement="right"] {
+  --translate-y: -50%;
+
+  top: 50%;
+  transform-origin: left;
+}
+
+c-menu-items[placement="right-start"] {
+  top: 0;
+  transform-origin: top left;
+}
+
+c-menu-items[placement="right-end"] {
+  bottom: 0;
+  transform-origin: bottom left;
+}
+
+c-menu-items[placement^="left"] {
+  right: 100%;
+  margin-right: var(--offset, 0);
+}
+
+c-menu[action="hover"] c-menu-items[placement^="left"]::before {
+  left: calc(100% - 2px);
+  height: 100%;
+  width: calc(4px + var(--offset, 0));
+}
+
+c-menu-items[placement="left"] {
+  --translate-y: -50%;
+
+  top: 50%;
+  transform-origin: right;
+}
+
+c-menu-items[placement="left-start"] {
+  top: 0;
+  transform-origin: top right;
+}
+
+c-menu-items[placement="left-end"] {
+  bottom: 0;
+  transform-origin: bottom right;
+}
+
+c-menu-items[placement="over"] {
+  --translate-x: -50%;
+  --translate-y: -50%;
+
+  left: 50%;
+  top: 50%;
+  transform-origin: center;
+
+}
+
+c-menu-items[placement*="over-top"] {
+  bottom: 0;
+  margin-bottom: calc(-1 * var(--offset, 0));
+}
+
+c-menu-items[placement="over-top"] {
+  --translate-x: -50%;
+
+  left: 50%;
+  transform-origin: bottom;
+}
+
+c-menu-items[placement="over-top-start"] {
+  left: 0;
+  transform-origin: bottom left;
+}
+
+c-menu-items[placement="over-top-end"] {
+  right: 0;
+  transform-origin: bottom right;
+}
+
+
+c-menu-items[placement*="over-bottom"] {
+  top: 0;
+  margin-bottom: calc(-1 * var(--offset, 0));
+}
+
+c-menu-items[placement="over-bottom"] {
+  --translate-x: -50%;
+
+  left: 50%;
+  transform-origin: top;
+}
+
+c-menu-items[placement="over-bottom-start"] {
+  left: 0;
+  transform-origin: top left;
+}
+
+c-menu-items[placement="over-bottom-end"] {
+  right: 0;
+  transform-origin: top right;
+}
+
+c-menu-items[placement*="over-left"] {
+  left: 0;
+  margin-left: calc(-1 * var(--offset, 0));
+}
+
+c-menu-items[placement="over-left"] {
+  --translate-y: -50%;
+
+  top: 50%;
+  transform-origin: left;
+}
+
+c-menu-items[placement="over-left-start"] {
+  top: 0;
+  transform-origin: top left;
+}
+
+c-menu-items[placement="over-left-end"] {
+  bottom: 0;
+  transform-origin: bottom left;
+}
+
+c-menu-items[placement*="over-right"] {
+  right: 0;
+  margin-right: calc(-1 * var(--offset, 0));
+}
+
+c-menu-items[placement="over-right"] {
+  --translate-y: -50%;
+
+  top: 50%;
+  transform-origin: right;
+}
+
+c-menu-items[placement="over-right-start"] {
+  top: 0;
+  transform-origin: top right;
+}
+
+c-menu-items[placement="over-right-end"] {
+  bottom: 0;
+  transform-origin: bottom right;
+}
+/*
+! tailwindcss v3.4.10 | MIT License | https://tailwindcss.com
+*//*
+1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
+2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
+*/*,
+::before,
+::after {
+  box-sizing: border-box; /* 1 */
+  border-width: 0; /* 2 */
+  border-style: solid; /* 2 */
+  border-color: currentColor; /* 2 */
+}::before,
+::after {
+  --tw-content: '';
+}/*
+1. Use a consistent sensible line-height in all browsers.
+2. Prevent adjustments of font size after orientation changes in iOS.
+3. Use a more readable tab size.
+4. Use the user's configured `sans` font-family by default.
+5. Use the user's configured `sans` font-feature-settings by default.
+6. Use the user's configured `sans` font-variation-settings by default.
+7. Disable tap highlights on iOS
+*/html,
+:host {
+  line-height: 1.5; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  -moz-tab-size: 4; /* 3 */
+  -o-tab-size: 4;
+     tab-size: 4; /* 3 */
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 4 */
+  font-feature-settings: normal; /* 5 */
+  font-variation-settings: normal; /* 6 */
+  -webkit-tap-highlight-color: transparent; /* 7 */
+}/*
+1. Remove the margin in all browsers.
+2. Inherit line-height from `html` so users can set them as a class directly on the `html` element.
+*/body {
+  margin: 0; /* 1 */
+  line-height: inherit; /* 2 */
+}/*
+1. Add the correct height in Firefox.
+2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)
+3. Ensure horizontal rules are visible by default.
+*/hr {
+  height: 0; /* 1 */
+  color: inherit; /* 2 */
+  border-top-width: 1px; /* 3 */
+}/*
+Add the correct text decoration in Chrome, Edge, and Safari.
+*/abbr:where([title]) {
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
+}/*
+Remove the default font size and weight for headings.
+*/h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}/*
+Reset links to optimize for opt-in styling instead of opt-out.
+*/a {
+  color: inherit;
+  text-decoration: inherit;
+}/*
+Add the correct font weight in Edge and Safari.
+*/b,
+strong {
+  font-weight: bolder;
+}/*
+1. Use the user's configured `mono` font-family by default.
+2. Use the user's configured `mono` font-feature-settings by default.
+3. Use the user's configured `mono` font-variation-settings by default.
+4. Correct the odd `em` font sizing in all browsers.
+*/code,
+kbd,
+samp,
+pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; /* 1 */
+  font-feature-settings: normal; /* 2 */
+  font-variation-settings: normal; /* 3 */
+  font-size: 1em; /* 4 */
+}/*
+Add the correct font size in all browsers.
+*/small {
+  font-size: 80%;
+}/*
+Prevent `sub` and `sup` elements from affecting the line height in all browsers.
+*/sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}sub {
+  bottom: -0.25em;
+}sup {
+  top: -0.5em;
+}/*
+1. Remove text indentation from table contents in Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=999088, https://bugs.webkit.org/show_bug.cgi?id=201297)
+2. Correct table border color inheritance in all Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=935729, https://bugs.webkit.org/show_bug.cgi?id=195016)
+3. Remove gaps between table borders by default.
+*/table {
+  text-indent: 0; /* 1 */
+  border-color: inherit; /* 2 */
+  border-collapse: collapse; /* 3 */
+}/*
+1. Change the font styles in all browsers.
+2. Remove the margin in Firefox and Safari.
+3. Remove default padding in all browsers.
+*/button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit; /* 1 */
+  font-feature-settings: inherit; /* 1 */
+  font-variation-settings: inherit; /* 1 */
+  font-size: 100%; /* 1 */
+  font-weight: inherit; /* 1 */
+  line-height: inherit; /* 1 */
+  letter-spacing: inherit; /* 1 */
+  color: inherit; /* 1 */
+  margin: 0; /* 2 */
+  padding: 0; /* 3 */
+}/*
+Remove the inheritance of text transform in Edge and Firefox.
+*/button,
+select {
+  text-transform: none;
+}/*
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Remove default button styles.
+*/button,
+input:where([type='button']),
+input:where([type='reset']),
+input:where([type='submit']) {
+  -webkit-appearance: button; /* 1 */
+  background-color: transparent; /* 2 */
+  background-image: none; /* 2 */
+}/*
+Use the modern Firefox focus style for all focusable elements.
+*/:-moz-focusring {
+  outline: auto;
+}/*
+Remove the additional `:invalid` styles in Firefox. (https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d494c9be1/layout/style/res/forms.css#L728-L737)
+*/:-moz-ui-invalid {
+  box-shadow: none;
+}/*
+Add the correct vertical alignment in Chrome and Firefox.
+*/progress {
+  vertical-align: baseline;
+}/*
+Correct the cursor style of increment and decrement buttons in Safari.
+*/::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+  height: auto;
+}/*
+1. Correct the odd appearance in Chrome and Safari.
+2. Correct the outline style in Safari.
+*/[type='search'] {
+  -webkit-appearance: textfield; /* 1 */
+  outline-offset: -2px; /* 2 */
+}/*
+Remove the inner padding in Chrome and Safari on macOS.
+*/::-webkit-search-decoration {
+  -webkit-appearance: none;
+}/*
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Change font properties to `inherit` in Safari.
+*/::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}/*
+Add the correct display in Chrome and Safari.
+*/summary {
+  display: list-item;
+}/*
+Removes the default spacing and border for appropriate elements.
+*/blockquote,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+figure,
+p,
+pre {
+  margin: 0;
+}fieldset {
+  margin: 0;
+  padding: 0;
+}legend {
+  padding: 0;
+}ol,
+ul,
+menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}/*
+Reset default styling for dialogs.
+*/dialog {
+  padding: 0;
+}/*
+Prevent resizing textareas horizontally by default.
+*/textarea {
+  resize: vertical;
+}/*
+1. Reset the default placeholder opacity in Firefox. (https://github.com/tailwindlabs/tailwindcss/issues/3300)
+2. Set the default placeholder color to the user's configured gray 400 color.
+*/input::-moz-placeholder, textarea::-moz-placeholder {
+  opacity: 1; /* 1 */
+  color: #9ca3af; /* 2 */
+}input::placeholder,
+textarea::placeholder {
+  opacity: 1; /* 1 */
+  color: #9ca3af; /* 2 */
+}/*
+Set the default cursor for buttons.
+*/button,
+[role="button"] {
+  cursor: pointer;
+}/*
+Make sure disabled buttons don't get the pointer cursor.
+*/:disabled {
+  cursor: default;
+}/*
+1. Make replaced elements `display: block` by default. (https://github.com/mozdevs/cssremedy/issues/14)
+2. Add `vertical-align: middle` to align replaced elements more sensibly by default. (https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210)
+   This can trigger a poorly considered lint error in some tools but is included by design.
+*/img,
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+  display: block; /* 1 */
+  vertical-align: middle; /* 2 */
+}/*
+Constrain images and videos to the parent width and preserve their intrinsic aspect ratio. (https://github.com/mozdevs/cssremedy/issues/14)
+*/img,
+video {
+  max-width: 100%;
+  height: auto;
+}/* Make elements with the HTML hidden attribute stay hidden by default */[hidden] {
+  display: none;
+}:root{
+  --tw-input-size: 42px;
+  --tw-input-color: rgba(var(--primary-rgb), 1);
+  --tw-checkbox-size: 24px;
+  --tw-checkbox-color: rgba(var(--primary-rgb), 1);
+}.ripple{background:radial-gradient(rgba(0, 0, 0, 0.1) 0, rgba(0, 0, 0, 0.2) 40%, rgba(0, 0, 0, 0.2) calc(60% - 10px), rgba(0, 0, 0, 0.2) 60%, rgba(0, 0, 0, 0) calc(60% + 10px))}.btn-fill:not(.btn-l3) .ripple{background:radial-gradient(rgba(255, 255, 255, 0.1) 0, rgba(255, 255, 255, 0.2) 40%, rgba(255, 255, 255, 0.2) calc(60% - 10px), rgba(255, 255, 255, 0.2) 60%, rgba(0, 0, 0, 0) calc(60% + 10px))}.icon{display:block;width:1em;min-width:1em;height:1em}*, ::before, ::after{
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-pan-x:  ;
+  --tw-pan-y:  ;
+  --tw-pinch-zoom:  ;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
+  --tw-ordinal:  ;
+  --tw-slashed-zero:  ;
+  --tw-numeric-figure:  ;
+  --tw-numeric-spacing:  ;
+  --tw-numeric-fraction:  ;
+  --tw-ring-inset:  ;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000;
+  --tw-blur:  ;
+  --tw-brightness:  ;
+  --tw-contrast:  ;
+  --tw-grayscale:  ;
+  --tw-hue-rotate:  ;
+  --tw-invert:  ;
+  --tw-saturate:  ;
+  --tw-sepia:  ;
+  --tw-drop-shadow:  ;
+  --tw-backdrop-blur:  ;
+  --tw-backdrop-brightness:  ;
+  --tw-backdrop-contrast:  ;
+  --tw-backdrop-grayscale:  ;
+  --tw-backdrop-hue-rotate:  ;
+  --tw-backdrop-invert:  ;
+  --tw-backdrop-opacity:  ;
+  --tw-backdrop-saturate:  ;
+  --tw-backdrop-sepia:  ;
+  --tw-contain-size:  ;
+  --tw-contain-layout:  ;
+  --tw-contain-paint:  ;
+  --tw-contain-style:  ;
+}::backdrop{
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-pan-x:  ;
+  --tw-pan-y:  ;
+  --tw-pinch-zoom:  ;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
+  --tw-ordinal:  ;
+  --tw-slashed-zero:  ;
+  --tw-numeric-figure:  ;
+  --tw-numeric-spacing:  ;
+  --tw-numeric-fraction:  ;
+  --tw-ring-inset:  ;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000;
+  --tw-blur:  ;
+  --tw-brightness:  ;
+  --tw-contrast:  ;
+  --tw-grayscale:  ;
+  --tw-hue-rotate:  ;
+  --tw-invert:  ;
+  --tw-saturate:  ;
+  --tw-sepia:  ;
+  --tw-drop-shadow:  ;
+  --tw-backdrop-blur:  ;
+  --tw-backdrop-brightness:  ;
+  --tw-backdrop-contrast:  ;
+  --tw-backdrop-grayscale:  ;
+  --tw-backdrop-hue-rotate:  ;
+  --tw-backdrop-invert:  ;
+  --tw-backdrop-opacity:  ;
+  --tw-backdrop-saturate:  ;
+  --tw-backdrop-sepia:  ;
+  --tw-contain-size:  ;
+  --tw-contain-layout:  ;
+  --tw-contain-paint:  ;
+  --tw-contain-style:  ;
+}.container{
+  width: 100%;
+}@media (min-width: 449.98px){.container{
+    max-width: 449.98px;
+  }
+}@media (min-width: 609.98px){.container{
+    max-width: 609.98px;
+  }
+}@media (min-width: 769.98px){.container{
+    max-width: 769.98px;
+  }
+}@media (min-width: 1199.98px){.container{
+    max-width: 1199.98px;
+  }
+}@media (min-width: 1366px){.container{
+    max-width: 1366px;
+  }
+}.btn{
+  --tw-btn-size: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: var(--tw-btn-size);
+  padding: 0 calc(var(--tw-btn-size) / 2);
+  transition: .2s ease;
+  color: var(--tw-btn-color);
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}@media (hover){.btn:hover, .btn:is(.btn-group:hover .btn), .btn:is(.btn-peer:hover~.btn){
+    background: var(--tw-btn-color-light);
+  }
+}.btn:focus{
+  z-index: 2;
+}.btn:active, .btn:is(.btn-group:active .btn), .btn:is(.btn-peer:active~.btn){
+  transform: translateY(2px);
+}.btn-fill{
+  background: var(--tw-btn-color);
+  border: transparent;
+  color: #fff;
+}@media (hover){.btn-fill:hover, .btn-fill:is(.btn-group:hover .btn), .btn-fill:is(.btn-peer:hover~.btn){
+    background: var(--tw-btn-color);
+  }.btn-contur:hover, .btn-contur:is(.btn-group:hover .btn), .btn-contur:is(.btn-peer:hover~.btn){
+    background: var(--tw-btn-color-light);
+  }.btn-light:hover, .btn-light:is(.btn-group:hover .btn), .btn-light:is(.btn-peer:hover~.btn){
+    background: var(--tw-btn-color-light);
+  }.btn-whitebg:hover, .btn-whitebg:is(.btn-group:hover .btn), .btn-whitebg:is(.btn-peer:hover~.btn){
+    background: #fff;
+  }
+}.btn-text{
+  width: auto;
+  height: auto;
+  padding: 0;
+  background: none;
+  color: var(--tw-btn-color);
+}@media (hover){.btn-text:hover, .btn-text:is(.btn-group:hover .btn), .btn-text:is(.btn-peer:hover~.btn){
+    background: none;
+  }
+}.btn-icon{
+  min-width: var(--tw-btn-size);
+  width: var(--tw-btn-size);
+  padding: 0;
+}.btn:disabled{
+  opacity: 0.4;
+  pointer-events: none;
+}.\!input{
+  display: block !important;
+  height: var(--tw-input-size) !important;
+  border: 1px solid rgba(var(--default-rgb), 40%) !important;
+  outline: none !important;
+  line-height: 1 !important;
+  padding: calc((var(--tw-input-size) - 1.2em) / 2) 1em !important;
+  transition: border-color .1s, box-shadow .1s !important;
+}.input{
+  display: block;
+  height: var(--tw-input-size);
+  border: 1px solid rgba(var(--default-rgb), 40%);
+  outline: none;
+  line-height: 1;
+  padding: calc((var(--tw-input-size) - 1.2em) / 2) 1em;
+  transition: border-color .1s, box-shadow .1s;
+}.\!input:focus, .\!input:focus-within{
+  border-color: var(--tw-input-color) !important;
+  box-shadow: 0 0 0 1px var(--tw-input-color) !important;
+  z-index: 2 !important;
+}.input:focus, .input:focus-within{
+  border-color: var(--tw-input-color);
+  box-shadow: 0 0 0 1px var(--tw-input-color);
+  z-index: 2;
+}.\!input:focus, .\!input:focus-within{
+  border-color: var(--tw-input-color) !important;
+  box-shadow: 0 0 0 1px var(--tw-input-color) !important;
+  z-index: 2 !important;
+}@media (hover){.\!input:hover{
+    border-color: var(--tw-input-color) !important;
+    z-index: 2 !important;
+  }.input:hover{
+    border-color: var(--tw-input-color);
+    z-index: 2;
+  }
+}.\!input:disabled{
+  opacity: 0.6 !important;
+}.input:disabled{
+  opacity: 0.6;
+}.checkbox, .radio{
+  display: block;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  height: var(--tw-checkbox-size);
+  width: var(--tw-checkbox-size);
+  border: 1px solid rgba(var(--default-rgb), 40%);
+  outline: none !important;
+  transition: border .1s, box-shadow .1s, background .1s;
+  box-shadow: 0 0 0 0px var(--tw-checkbox-color);
+}.checkbox:focus, .checkbox:focus-within, .radio:focus, .radio:focus-within{
+  border-color: var(--tw-checkbox-color);
+  box-shadow: 0 0 0 1px var(--tw-checkbox-color);
+  z-index: 2;
+}.checkbox, .radio{@media(hover){&:hover{
+      border-color: var(--tw-checkbox-color);
+    }
+  }
+}.checkbox:checked, .radio:checked{
+  border-color: var(--tw-checkbox-color);
+  box-shadow: none;
+}.checkbox:disabled, .radio:disabled{
+  opacity: 0.6;
+}.checkbox:checked{
+  background: url("data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3cpath d=%27M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z%27/%3e%3c/svg%3e"), var(--tw-checkbox-color);
+}.active-disabled:is(:is(.toggle-active,.tab-active,.active) .active-disabled){display:none !important}.is-active-disabled:is(.toggle-active,.active){display:none}.btn{cursor:pointer;justify-content:start}.static{
+  position: static;
+}.absolute{
+  position: absolute;
+}.relative{
+  position: relative;
+}.-inset-2{
+  inset: -0.5rem;
+}.mb-5{
+  margin-bottom: 1.25rem;
+}.ml-auto{
+  margin-left: auto;
+}.flex{
+  display: flex;
+}.size-20{
+  width: 5rem;
+  height: 5rem;
+}.h-7{
+  height: 1.75rem;
+}.h-full{
+  height: 100%;
+}.w-7{
+  width: 1.75rem;
+}.w-80{
+  width: 20rem;
+}.w-\[500px\]{
+  width: 500px;
+}.w-full{
+  width: 100%;
+}.grow{
+  flex-grow: 1;
+}.transform{
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}.cursor-pointer{
+  cursor: pointer;
+}.flex-col{
+  flex-direction: column;
+}.flex-wrap{
+  flex-wrap: wrap;
+}.items-start{
+  align-items: flex-start;
+}.items-center{
+  align-items: center;
+}.justify-center{
+  justify-content: center;
+}.justify-between{
+  justify-content: space-between;
+}.gap-10{
+  gap: 2.5rem;
+}.gap-2\.5{
+  gap: 0.625rem;
+}.gap-3{
+  gap: 0.75rem;
+}.gap-4{
+  gap: 1rem;
+}.rounded-lg{
+  border-radius: 0.5rem;
+}.rounded-md{
+  border-radius: 0.375rem;
+}.rounded-xl{
+  border-radius: 0.75rem;
+}.bg-default\/10{
+  background-color: rgba(var(--default-rgb), 0.1);
+}.bg-l1{
+  --tw-bg-opacity: 1;
+  background-color: rgba(var(--bg1-rgb), var(--tw-bg-opacity));
+}.bg-l2{
+  --tw-bg-opacity: 1;
+  background-color: rgba(var(--bg2-rgb), var(--tw-bg-opacity));
+}.object-cover{
+  -o-object-fit: cover;
+     object-fit: cover;
+}.p-10{
+  padding: 2.5rem;
+}.p-2{
+  padding: 0.5rem;
+}.p-4{
+  padding: 1rem;
+}.py-16{
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}.py-48{
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+}.pb-40{
+  padding-bottom: 10rem;
+}.pb-96{
+  padding-bottom: 24rem;
+}.text-center{
+  text-align: center;
+}.text-2xl{
+  font-size: 1.5rem;
+  line-height: 2rem;
+}.text-4xl{
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}.text-sm{
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}.text-xs{
+  font-size: 0.75rem;
+  line-height: 1rem;
+}.font-bold{
+  font-weight: 700;
+}.opacity-50{
+  opacity: 0.5;
+}.blur{
+  --tw-blur: blur(8px);
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}.btn-xs{
+  --tw-btn-size: 24px;
+}.btn-primary{
+  --tw-btn-color: rgba(var(--primary-rgb), 1);
+  --tw-btn-color-light: rgba(var(--primary-rgb), 0.1);
+}@media (hover){.btn-primary:hover, .btn-primary:is(.btn-group:hover .btn), .btn-primary:is(.btn-peer:hover~.btn){
+    --tw-btn-color: color-mix(in srgb, rgba(var(--primary-rgb), 1) 85%, black);
+    --tw-btn-color-light: rgba(var(--primary-rgb), 0.2);
+  }
+}c-menu-items{--offset: 8px;z-index:321;box-shadow:0 4px 20px 0 rgba(0,0,0,.04);border:1px solid rgba(var(--default-rgb), 5%);width:224px;background:rgba(var(--bg3-rgb), 1);color:rgba(var(--default-rgb), 1);transition:.25s var(--elastic, ease)}@media(max-width: 769.98px){c-menu-items{position:fixed;inset:auto 0 0 !important;width:100% !important;max-height:400px;overflow:auto;z-index:324;transform:none;transition:.25s ease;margin:0 !important}}c-menu-items:not([data-active]){--scale: .95}@media(max-width: 769.98px){c-menu-items:not([data-active]){transform:translateY(20px) !important}}c-menu-shadow{position:fixed;inset:0;z-index:calc(324 - 1);background:rgba(0,0,0,.5);transition:.25s ease}@media(min-width: 769.98px){c-menu-shadow{display:none}}c-menu-shadow:not([data-active]){pointer-events:none;opacity:0}@media(max-width: 769.98px){body.c-menu-opened{overflow:hidden}}:root{--section-width: calc(100vw - 30px);--section-gap-top: 20px;--section-gap-bottom: 20px}dialog,section,header,footer{padding:0 calc(50% - var(--section-width)/2)}section{padding-top:var(--section-gap-top);padding-bottom:var(--section-gap-bottom)}@media (min-width: 769.98px){:root{--section-width: calc(740px)}}@media (min-width: 1199.98px){:root{--section-width: calc(1170px)}}@media (min-width: 1366px){:root{--section-width: calc(1230px)}}:root{--primary-rgb: 27, 75, 155;--sec-rgb: 206, 155, 68;--blue-rgb: 33, 115, 229;--red-rgb: 192, 57, 43;--green-rgb: 39, 174, 96;--yellow-rgb: 254, 203, 41;--bg1-rgb: 237, 237, 237;--bg2-rgb: 245, 247, 251;--bg3-rgb: 255, 255, 255;--default-rgb: 55, 55, 55;--white-rgb: 255, 255, 255;--black-rgb: 0, 0, 0;--bg1: rgb(var(--bg1-rgb));--bg2: rgb(var(--bg2-rgb));--bg3: rgb(var(--bg3-rgb));--default: rgb(var(--default-rgb));--elastic: cubic-bezier(0.34, 2, 0.64, 1)}[data-theme=dark]{--bg1-rgb: 24, 24, 24;--bg2-rgb: 40, 40, 40;--bg3-rgb: 50, 50, 50;--default-rgb: 255, 255, 255}body{display:flex;flex-direction:column;min-height:100vh;background:rgba(var(--bg2-rgb), 1);font-family:'Gilroy', arial, helvetica, sans-serif;color:rgba(var(--default-rgb), 1)}body.menu-opened{overflow:hidden}@media(hover){.btn-white:hover,.btn-white:is(.btn-group:hover .btn),.btn-white:is(.btn-peer:hover~.btn){--tw-btn-color: #fff}}.group[data-active] .group-data-\[active\]\:-rotate-180{
+  --tw-rotate: -180deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}.group[data-active] .group-data-\[active\]\:-rotate-90{
+  --tw-rotate: -90deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}.group[data-active] .group-data-\[active\]\:rotate-90{
+  --tw-rotate: 90deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+/*# sourceMappingURL=style.css.map*/
